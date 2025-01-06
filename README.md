@@ -30,3 +30,4 @@ Use common HTML tags like h1, p, a, img, and ul or ol.
 Structure a webpage with semantic tags such as header, footer, nav, section, and article.
 Ensure the content is well-organized for readability and SEO.
 
+
